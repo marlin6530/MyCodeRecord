@@ -1,9 +1,4 @@
-/* Question : OJ Number */
-
-//#include<bits/stdc++.h>
-#include<iostream>
-#include<map>
-#include<string>
+#include<bits/stdc++.h>
 using namespace std;
 
 int main(){
